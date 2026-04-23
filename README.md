@@ -76,15 +76,15 @@ Skilled in transforming raw datasets into meaningful insights that support data-
 
 <h3>📈 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafi8045&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Shafi-V-M&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafi8045&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Shafi-V-M&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafi8045&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Shafi-V-M&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr/>
