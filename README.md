@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shafi</h1>
-<h3 align="center">Computer Engineer | Developer | Tech Enthusiast</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+about+Software+%26+AI;Flutter+%7C+Python+%7C+Firebase;Open+Source+Contributor+%7C+Tech+Learner" alt="Typing SVG" />
