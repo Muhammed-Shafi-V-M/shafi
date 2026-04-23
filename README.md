@@ -91,14 +91,14 @@ Skilled in transforming raw datasets into meaningful insights that support data-
 
 <h3>📊 Activity Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafi8045&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Shafi-V-M&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <hr/>
 
 <h3>🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shafi8045/shafi8045/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Muhammed-Shafi-V-M/Muhammed-Shafi-V-M/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <hr/>
