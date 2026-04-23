@@ -1,72 +1,117 @@
-<h1 align="center">Hi 👋, I'm Muhammed Shafi</h1>
-<h3 align="center">Data Analyst</h3>
+<!-- BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+about+Software+%26+AI;Flutter+%7C+Python+%7C+Firebase;Open+Source+Contributor+%7C+Tech+Learner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Shafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
+<h2 align="center">📊 Data Analyst | Turning Data into Actionable Insights</h2>
 
-### 🔧 Technologies & Tools
+<p align="center">
+  <a href="mailto:shafivmm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shafi-v-m-4a536b32a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<hr/>
+
+<h3>🧠 About Me</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+Data Analyst with a strong foundation in data cleaning, analysis, and visualization.
+Skilled in transforming raw datasets into meaningful insights that support data-driven decision-making.
 </p>
 
----
+<hr/>
 
-### 💼 Experience
-- 💻 **Software Intern at Safe Technologies** — Embedded & Python projects  
-- 📱 **Flutter Intern at Maxlore Innovation** — Mobile App development  
-- 📈 **Digital Marketing Executive at SamAds & Urumb Creation**  
-- 🌐 **Digital Marketing Intern at Quad Cubes Digital LLP**
-
----
-
-### 🚀 Projects
-- 🎯 **Face Recognition Attendance System** using Flutter + PC Camera  
-- 📄 **Online Form Attestation Platform** using Flutter & Firebase  
-- 🛠️ Custom dashboards, UI/UX prototypes on **Figma**
-- 📊 **Data Visualization using Power BI for TATA**  
-  Created interactive dashboards and visuals using **Excel data sources** in **Power BI Desktop**.  
-
----
-
-### 👨‍🎓 Campus Activities
-- 💡 Member of **CESA** (Computer Engineering Students Association)  
-- ❤️ Active **NSS Cadet**  
-- 🏋️ Loves the **gym** and watching **movies**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafi8045&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafi8045&theme=radical" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafi8045&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
-### 📫 Let's Connect
+<h3>🧰 Data Analytics Stack</h3>
 <p>
-  <a href="mailto:shafivmm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shafi-v-m-4a536b32a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 </p>
 
----
+<h4>📚 Libraries & Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+</p>
 
-> “Always building, always learning!” 🚀
+<hr/>
+
+<h3>📊 Core Competencies</h3>
+<ul>
+  <li>Data Cleaning & Preprocessing</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Data Visualization & Dashboarding</li>
+  <li>SQL & Database Management</li>
+  <li>Statistical Analysis</li>
+  <li>Business Intelligence & Reporting</li>
+  <li>Trend Analysis & Forecasting</li>
+  <li>Data Storytelling</li>
+</ul>
+
+<hr/>
+
+<h3>🚀 Data Analytics Projects</h3>
+
+<h4>📊 Power BI Dashboard (TATA Data Project)</h4>
+<ul>
+  <li><b>Problem:</b> Lack of visibility into business KPIs</li>
+  <li><b>Solution:</b> Built interactive dashboards using Power BI</li>
+  <li><b>Impact:</b> Enabled quick insights into trends and performance</li>
+</ul>
+
+<h4>📊 Data Analysis with Python</h4>
+<ul>
+  <li>Performed Exploratory Data Analysis using Pandas and NumPy</li>
+  <li>Created visualizations using Matplotlib and Seaborn</li>
+  <li>Extracted insights and trends from datasets</li>
+</ul>
+
+<hr/>
+
+<h3>📈 GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafi8045&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafi8045&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafi8045&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr/>
+
+<h3>📊 Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafi8045&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<hr/>
+
+<h3>🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shafi8045/shafi8045/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<hr/>
+
+<h3>🎯 Current Focus</h3>
+<ul>
+  <li>Advanced SQL & Query Optimization</li>
+  <li>Building Real-World Dashboards</li>
+  <li>Data Science & Machine Learning</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  <i>“Data is valuable, but insights are powerful.” 🚀</i>
+</p>
